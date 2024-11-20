@@ -1,0 +1,5 @@
+vendor/
+config/email.php
+config/auth.php
+.env
+composer.lock

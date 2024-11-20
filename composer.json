@@ -1,0 +1,14 @@
+{
+    "name": "demo/php-auth-email",
+    "description": "PHP Authentication and Email Demo",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.8",
+        "robthree/twofactorauth": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    }
+}
